@@ -16,7 +16,7 @@ Down Arrow Key: Speeds up the rate that it moves down.
 
 Up Arrow Key: Changes the orientation of the shape.
 
-![](https://github.com/Alecjquiroga/tetris-project/blob/master/gameplay.PNG)
+![](https://github.com/Alecjquiroga/tetris-project/blob/master/GameOver.PNG)
 
 # Files
 Game.java: Contains the logic and main.
