@@ -27,6 +27,8 @@ Highscore.java: Saves the high Score to a file.
 
 # Compile
 
-To compile the game you run the Game.java file through java and the game will run.
+First you need to download and extract the SCR.zip
+
+Inside the SRC.zip you then run the Game.java through javac and it will run.
 
 
